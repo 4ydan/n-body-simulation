@@ -1,6 +1,8 @@
 # n-body-simulation
 > datastructure octree and barnes hut algorithm, Complexity: O(N*log(N))
 
+---
+
 set your params in Simulations.java
 
 ### universe.zoom
@@ -13,3 +15,5 @@ set your params in Simulations.java
 > runs simulation with selected number of bodies
 
 finally execute the main
+
+---
