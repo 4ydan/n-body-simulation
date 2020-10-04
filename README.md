@@ -1,2 +1,14 @@
 # n-body-simulation
-barnes hut algorithm used for the n-body problem
+
+set your params in Simulations.java
+
+### universe.zoom
+> sets resolution
+
+### universe.speed
+> sets universe time speed
+
+### universe.run
+> runs simulation with selected number of bodies
+
+finally execute the main
