@@ -1,4 +1,5 @@
 # n-body-simulation
+> datastructure octree and barnes hut algorithm, Complexity: O(N*log(N))
 
 set your params in Simulations.java
 
